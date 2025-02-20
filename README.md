@@ -1,4 +1,4 @@
-# Amazon ECS Demo with fullstack app / DevOps practices / Terraform sample
+# A fullstack application using DevOps practices + Amazon ECS + Terraform + Node.js + Vue.js
 
 ## Table of content
 
